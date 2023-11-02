@@ -1,0 +1,11 @@
+{
+  "name": "Curve448-Certificate-Generator",
+  "version": "1.0.0",
+  "description": "Generate Curve448 Certificate and Encrypt Data",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}

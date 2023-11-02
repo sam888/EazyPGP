@@ -1,0 +1,17 @@
+{
+  "name": "Ed25519-Certificate-Generator",
+  "version": "1.0.0",
+  "description": "Generate Ed25519 Certificate and Sign Data",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "ed25519": "0.0.5",
+    "jsonwebtoken": "^9.0.0",
+    "libsodium-wrappers": "^0.7.11",
+    "nacl": "^0.1.3",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}
